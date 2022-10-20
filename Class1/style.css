@@ -1,0 +1,46 @@
+.flex-header{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+
+.body{
+    color: white;
+    background-color: gray;
+}
+.card{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    width:200px;
+    height: 100px;
+    border: 1px solid lightgray;
+    box-shadow: 2px 2px 8px 4px #d3d3d3d1;
+    border-radius:15px;
+    font-family: sans-serif;
+}
+.encabezado{
+    font-size: 40px;
+    padding: 10px 10px 0 10px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+}
+.container{
+    font-size: 30px;
+    padding: 10px;
+    width:200px;
+    height: 200px;
+    text-align: center;
+    justify-content: center;
+}
+.pie{
+    color: white;
+    background: gray;
+    text-align: center;
+    justify-content: center;
+
+
+}
+
