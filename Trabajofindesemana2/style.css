@@ -1,0 +1,38 @@
+body{
+    /*background-color: white (205, 138, 50);*/
+    background: linear-gradient(rgba(216, 189, 131,0.2),rgba(216, 189, 131,0)), url(imagenes/fondo.png);
+    background-size: cover;
+    background-attachment: fixed;
+  
+}
+#fondo2{
+    background: linear-gradient(rgba(216, 189, 131,0.2),rgba(216, 189, 131,0)), url(imagenes/fondo_2.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#navbarNav{
+    display: none;
+}
+
+#format {
+    background: linear-gradient(rgba(5, 7, 12,0.5),rgba(5, 7, 12, 0.75))
+}
+
+#format2 {
+
+    background: linear-gradient(rgba(215, 231, 125, 0.5),rgba(203, 231, 102, 0.75));
+    padding: 10px;
+    margin: 30px;
+}
+
+.btn-a {
+    background-color: aqua;
+     padding: 35 px 55 px;
+    color: black;
+   
+}
+
+p {
+    justify-content: center;
+}
